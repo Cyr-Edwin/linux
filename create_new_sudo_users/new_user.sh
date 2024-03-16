@@ -1,5 +1,5 @@
 # Create two new users.
-sudo useradd Micheal
+sudo useradd pierre
 sudo useradd  Joseph
 
 # Verify the `/etc/sudoers` file and test access.
